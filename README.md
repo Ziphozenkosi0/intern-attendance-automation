@@ -32,7 +32,3 @@ An automated weekly attendance register system built for the CX Expert Intern Pr
 - Data tracking and reporting
 - JavaScript / Apps Script programming
 - Spreadsheet design and formatting
-
-## Author
-Asonwabe Ntshiyantshiya
-Aspiring Data Analyst & Software Developer
